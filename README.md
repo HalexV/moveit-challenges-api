@@ -37,7 +37,7 @@ This API was created to serve the challenges to any instances of Move.it app.
 
 At moment the API serves all challenges in the database on a single request.
 
-To get all challenges access: api/all
+To get all challenges access: https://moveit-challenges-api.herokuapp.com/all
 
 ## Challenge object
 
